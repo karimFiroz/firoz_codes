@@ -1,0 +1,112 @@
+.{
+margin:0;
+padding:0;
+}
+
+.body
+{
+	background-color:#ffffff;
+}
+.cat{
+	position:relative;
+	max width:220 px;
+	
+}
+.rat{
+	position:absolute;
+	width:100%
+	height:100%
+	background:rgba(45,37,107);
+	align:top;
+	padding-left:10px;
+	padding-top:10px;
+}
+.logo{
+	 height:56px;
+	 width:45px;
+	 align:left;
+	 padding-top:55px;
+	 padding-left:30px;
+}
+.karim{
+	bgcolor:#C8F7C5;
+}
+
+.rahim li{
+	background:#C8F7C5;
+		display:inline;
+	padding-left:15px;
+
+}
+.row{
+	background:#C8F7C5;
+}
+.page-wrap
+{
+	width:85%;
+	margin:0% auto 0% auto;
+	background:#FFFFFF;
+}
+
+.header
+{
+	width:960px;
+	min-height:150px;
+	background:#C8F7C5;
+	text-align:center;
+	margin:0px,0px,0px,1px;
+	padding-top:0px;
+	padding-bottom:0px;
+}
+.slide-box
+{
+	width:85%;
+	margin:5% auto 2%;
+}
+/*
+	Coin Slider jQuery plugin CSS styles
+	http://workshop.rs/projects/coin-slider
+*/
+
+
+.coin-slider { overflow: hidden; zoom: 1; position: relative; }
+.coin-slider a{ text-decoration: none; outline: none; border: none; }
+
+.cs-buttons { font-size: 0px; padding: 10px; float: left; }
+.cs-buttons a { margin-left: 5px; height: 10px; width: 10px; float: left; border: 1px solid #B8C4CF; color: #B8C4CF; text-indent: -1000px; }
+.cs-active { background-color:#B8C4CF; color: #FFFFFF; }
+
+.cs-title { width: 545px; padding: 10px; background-color: #000000; color: #FFFFFF; }
+
+.cs-prev, 
+.cs-next { background-color: #000000; color: #FFFFFF; padding: 0px 10px; }
+.line
+{
+	border-bottom:7px solid gray;
+	margin-bottom:3%
+}
+.sbox
+{
+	width:25%;
+	padding:1%;
+	margin:2% auto auto 2%;
+}
+.sabox-well{
+	width:200px;
+	padding:1%;
+	margin:2% auto auto 2%;
+}
+.sheading
+{
+	border-bottom:1px solid #CCF;
+}
+.spara
+{
+	margin-top:5%; 
+}
+.content{width:960px;background:#C8F7C5;margin:0 auto;}
+	.left{width:320px;height:600px:background:#C8F7C5;float:left;}
+	.middle{width:320px;height:600px:background:#C8F7C5;float:left;}
+	.right{width:320px;height:600px:background:#C8F7C5;float:left;}
+.footer{width:960;height:50px;background:#C8F7C5; font-size:13px; pading-top:10px;}
+p{font-style:oblique; font-size:1em; font-weight:bolder;color:#000000;word-spacing:10px; align:center;}
